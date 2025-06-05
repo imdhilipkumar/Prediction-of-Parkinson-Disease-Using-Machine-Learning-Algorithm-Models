@@ -74,7 +74,7 @@ This project demonstrates practical applications of **supervised machine learnin
 
 Feel free to explore the [codebase](./notebooks) or [read the report](./report/Final_Project_Report.pdf) to learn more.
 
-📬 **Let’s connect:** [LinkedIn](https://linkedin.com/in/yourname) | ✉️ your.email@example.com
+📬 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/dhilipkumar20/) | ✉️ dhilipkumar.m0007@gmail.com
 
 ---
 
